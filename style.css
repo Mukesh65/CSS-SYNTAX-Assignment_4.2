@@ -1,0 +1,12 @@
+#top {
+  border-bottom: 1px solid black;
+}
+h1 {
+  border-bottom: 1px solid black;
+}
+article {
+  border-bottom: 1px solid black;
+}
+#footer {
+  border-bottom: 3px solid black;
+}
